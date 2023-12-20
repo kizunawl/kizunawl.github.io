@@ -25,12 +25,12 @@ Education
 
 Internship
 ======
-- *2023.3 - Present:* MVIG lab, Shanghai Jiao Tong University
+- *2023.3 - Present:* [MVIG lab](https://www.mvig.org/), Shanghai Jiao Tong University
   - Research Intern
   - Supervisor: Prof. Cewu Lu
   - **3D Vision**, **Embodied AI**, **Reinforcement Learning**
 
-- *2023.1 - 2023.8* XAI lab, Shanghai Jiao Tong University
+- *2023.1 - 2023.8:* [XAI lab](https://sjtu-xai-lab.github.io/), Shanghai Jiao Tong University
   - Research Intern
   - Supervisor: Prof. Quanshi Zhang
   - **Explainable AI**, **LLM**
@@ -42,12 +42,12 @@ Publications
 Honors & Awards
 ======
 - National Awards
-  - *2019.12:* **First Price**, NOIP(National Olympiad in Informatics in Province)
-  - *2017.12:* **First Price**, NOIP(National Olympiad in Informatics in Province)
+  - *2019.12:* **First Price**, NOIP (National Olympiad in Informatics in Province)
+  - *2017.12:* **First Price**, NOIP (National Olympiad in Informatics in Province)
 - Scholarships
   - *2021.12:* **Third Price** of Academic Exellent Scholarship of Shanghai Jiao Tong University
 - Certificates
-  - *2022.9:* **596/710**, CET6(College English Test Band 6 Certificate)
+  - *2022.9:* **596/710**, CET6 (College English Test Band 6 Certificate)
 
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
