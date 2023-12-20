@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Jiude Wei's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,48 @@ redirect_from:
   - /about.html
 ---
 
+Hi, this is Jiude Wei, an undergraduate majoring in Artificial Intelligence in Shanghai Jiao Tong University. I was enrolled in the first session of [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb). Now I work as a research intern at [MVIG lab](https://www.mvig.org/) where I cowork with Jianhua Sun and Yuxuan Li, supervised by Prof. Cewu Lu. I have great research interest in 3D vision, robotics and embodied AI. 
+
+<!-- In my spare time, I am a member of SEIEE football club⚽.  -->
+
+News about me
+======
+- *2023.11:* Two papers are under review for **CVPR 2024** (both co-first author)
+- *2023.3:* Joined [MVIG lab](https://www.mvig.org/)
+- *2023.1:* Joined [XAI lab](https://sjtu-xai-lab.github.io/)
+- *2021.12:* Enrolled in [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb)
+
+Education
+======
+- *2021.9 - Present:* Undergraduate, major in Artificial Intelligence, SEIEE, Shanghai Jiao Tong University
+
+Internship
+======
+- *2023.3 - Present:* MVIG lab, Shanghai Jiao Tong University
+  - Research Intern
+  - Supervisor: Prof. Cewu Lu
+  - **3D Vision**, **Embodied AI**, **Reinforcement Learning**
+
+- *2023.1 - 2023.8* XAI lab, Shanghai Jiao Tong University
+  - Research Intern
+  - Supervisor: Prof. Quanshi Zhang
+  - **Explainable AI**, **LLM**
+
+Publications
+======
+- Two papers under review for CVPR 2024 (both co-first author)
+
+Honors & Awards
+======
+- National Awards
+  - *2019.12:* **First Price**, NOIP(National Olympiad in Informatics in Province)
+  - *2017.12:* **First Price**, NOIP(National Olympiad in Informatics in Province)
+- Scholarships
+  - *2021.12:* **Third Price** of Academic Exellent Scholarship of Shanghai Jiao Tong University
+- Certificates
+  - *2022.9:* **596/710**, CET6(College English Test Band 6 Certificate)
+
+<!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -47,4 +89,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
