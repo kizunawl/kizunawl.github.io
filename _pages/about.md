@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Jiude Wei(魏九德), an undergraduate majoring in Artificial Intelligence in Shanghai Jiao Tong University. I was enrolled in the first session of [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb). Now I work as a research intern at [MVIG lab](https://www.mvig.org/) where I cowork with Jianhua Sun and Yuxuan Li, supervised by Prof. Cewu Lu. I have great research interest in 3D vision, robotics and embodied AI. 
+Hi, this is Jiude Wei (魏九德), an undergraduate majoring in Artificial Intelligence in Shanghai Jiao Tong University. I was enrolled in the first session of [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb). Now I work as a research intern at [MVIG lab](https://www.mvig.org/) where I cowork with Jianhua Sun and Yuxuan Li, supervised by Prof. Cewu Lu. I have great research interest in 3D vision, robotics and embodied AI. 
 
 <!-- In my spare time, I am a member of SEIEE football club⚽.  -->
 
