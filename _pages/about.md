@@ -35,9 +35,11 @@ Internship
   - Supervisor: Prof. Quanshi Zhang
   - **Explainable AI**, **LLM**
 
+<!--
 Publications
 ======
 - Two papers under review for CVPR 2024 (both co-first author)
+-->
 
 Honors & Awards
 ======
