@@ -8,26 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Jiude Wei, an undergraduate majoring in Artificial Intelligence in Shanghai Jiao Tong University. I was enrolled in the first session of [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb). Now I work as a research intern at [MVIG lab](https://www.mvig.org/) where I cowork with Jianhua Sun and Yuxuan Li, supervised by Prof. Cewu Lu. I have great research interest in 3D vision, robotics and embodied AI. 
+Hi, this is Jiude Wei, an undergraduate majoring in Artificial Intelligence in Shanghai Jiao Tong University. I was enrolled in the first session of [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb). Now I work as a research intern at [MVIG lab](https://www.mvig.org/) where I cowork with [Jianhua Sun](https://gothicai.github.io/) and Yuxuan Li, supervised by Prof. [Cewu Lu](https://scholar.google.com/citations?user=QZVQEWAAAAAJ&hl=zh-CN&oi=ao). I have great research interest in 3D vision, robotics and embodied AI. 
 
-<!-- In my spare time, I am a member of SEIEE football club⚽.  -->
+<!-- In my spare time, I serve as a member of SEIEE football club⚽. I like movies🎦 and animes🌸. -->
 
-News about me
+<!-- News about me
 ======
 - *2023.11:* Two papers are under review for **CVPR 2024** (both co-first author)
 - *2023.3:* Joined [MVIG lab](https://www.mvig.org/)
 - *2023.1:* Joined [XAI lab](https://sjtu-xai-lab.github.io/)
-- *2021.12:* Enrolled in [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb)
+- *2021.12:* Enrolled in [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb) -->
 
 Education
 ======
 - *2021.9 - Present:* Undergraduate, major in Artificial Intelligence, SEIEE, Shanghai Jiao Tong University
 
-Internship
+Research Experience
 ======
 - *2023.3 - Present:* [MVIG lab](https://www.mvig.org/), Shanghai Jiao Tong University
   - Research Intern
-  - Supervisor: Prof. Cewu Lu
+  - Supervisor: Prof. [Cewu Lu](https://scholar.google.com/citations?user=QZVQEWAAAAAJ&hl=zh-CN&oi=ao)
   - **3D Vision**, **Embodied AI**, **Reinforcement Learning**
 
 - *2023.1 - 2023.8:* [XAI lab](https://sjtu-xai-lab.github.io/), Shanghai Jiao Tong University

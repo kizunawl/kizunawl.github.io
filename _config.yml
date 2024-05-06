@@ -11,7 +11,7 @@ title                    : "Jiude Wei's Homepage"
 title_separator          : "-"
 name                     : &name "Jiude Wei"
 description              : &description "personal description"
-url                      : https://kizunawl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kizunawl.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kizunawl/kizunawl.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jiude Wei"
   avatar           : "profile_square.png"
-  bio              : "TBD"
+  bio              : 
   location         : "Shanghai, China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            : "wjd_kznwl@sjtu.edu.cn"
+  wjd_kznwl[at]sjtu[dot]edu[dot]cn            : "wjd_kznwl@sjtu.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
