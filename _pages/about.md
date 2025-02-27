@@ -17,42 +17,54 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Hi, this is Jiude Wei, an undergraduate majoring in Artificial Intelligence in Shanghai Jiao Tong University. I was enrolled in the first session of [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb). Now I work as a research intern at [MVIG lab](https://www.mvig.org/) where I cowork with Jianhua Sun and Yuxuan Li, supervised by Prof. Cewu Lu. I have great research interest in 3D vision, robotics and specifically embodied AI. 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/aot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Discovering Conceptual Knowledge with Analytic Ontology Templates for Articulated Objects 🎉 _**<font color="#f35533">Oral</font>**_](https://arxiv.org/pdf/2409.11702)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Jianhua Sun<sup>\*</sup>, Yuxuan Li<sup>\*</sup>, Longfei Xu<sup>†</sup>, **Jiude Wei**<sup>†</sup>, Liang Chai, Cewu Lu<sup>§</sup>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[\[**Paper**\]](https://arxiv.org/pdf/2409.11702)
+
+We present AOT and the AOT-driven baseline AOTNet to empower machine intelligence with the kind of human capability to understand and then interact with articulated objects, espeically the novel ones, at the conceptual level for the first time. 
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024 Datasets and Benchmarks Track</div><img src='images/confac.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ConceptFactory: Facilitate 3D Object Knowledge Annotation with Object Conceptualization](https://arxiv.org/pdf/2411.00448)
+
+Jianhua Sun<sup>\*</sup>, Yuxuan Li<sup>\*</sup>, Longfei Xu<sup>†</sup>, Nange Wang<sup>†</sup>, **Jiude Wei**<sup>†</sup>, Yining Zhang, Cewu Lu<sup>§</sup>
+
+[\[**Project Website**\]](https://apeirony.github.io/ConceptFactory) [\[**Paper**\]](https://arxiv.org/pdf/2411.00448)
+
+We present ConceptFactory, a novel scope to facilitate more efficient annotation of 3D object knowledge through object conceptualization, containing a unified toolbox for object conceptualization and a large collection of conceptualized objects. 
+
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- National Awards
+  - *2019.12:* **First Price**, NOIP (National Olympiad in Informatics in Province)
+  - *2017.12:* **First Price**, NOIP (National Olympiad in Informatics in Province)
+- Scholarships
+  - *2021.12:* **Third Price** of Academic Exellent Scholarship of Shanghai Jiao Tong University
+- Certificates
+  - *2022.9:* **596/710**, CET6 (College English Test Band 6 Certificate)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.09 - Present*, Undergraduate, major in Artificial Intelligence, SEIEE, Shanghai Jiao Tong University
+- *2018.09 - 2021.06*, High School Affiliated to Shanghai Jiao Tong University
