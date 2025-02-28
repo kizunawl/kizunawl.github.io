@@ -18,10 +18,16 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-Hi, this is Jiude Wei, an undergraduate majoring in Artificial Intelligence in Shanghai Jiao Tong University. I was enrolled in the first session of [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb). Now I work as a research intern at [MVIG lab](https://www.mvig.org/) where I cowork with Jianhua Sun and Yuxuan Li, supervised by Prof. Cewu Lu. I have great research interest in 3D vision, robotics and specifically embodied AI. 
+Hi, this is Jiude Wei, an undergraduate majoring in Artificial Intelligence in Shanghai Jiao Tong University. 
+I was enrolled in the first session of [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb). 
+Now I work as a research intern at [MVIG](https://www.mvig.org/) where I cowork with Jianhua Sun and Yuxuan Li, supervised by Prof. Cewu Lu. I have great research interest in 3D vision, robotics and specifically embodied AI. 
 
 
 # 🔥 News
+
+- *2024.12*: Our work (Discovering Conceptual Knowledge with Analytic Ontology Templates for Articulated Objects) is accepted by AAAI 25 and selected as an **oral presentation**!
+
+- *2023.03*: Joined [MVIG](https://www.mvig.org/).
 
 
 # 📝 Publications 
@@ -63,8 +69,14 @@ We present ConceptFactory, a novel scope to facilitate more efficient annotation
 - Scholarships
   - *2021.12:* **Third Price** of Academic Exellent Scholarship of Shanghai Jiao Tong University
 - Certificates
-  - *2022.9:* **596/710**, CET6 (College English Test Band 6 Certificate)
+  - *2022.9:* **596**, CET6 (College English Test Band 6 Certificate)
+
 
 # 📖 Educations
 - *2021.09 - Present*, Undergraduate, major in Artificial Intelligence, SEIEE, Shanghai Jiao Tong University
 - *2018.09 - 2021.06*, High School Affiliated to Shanghai Jiao Tong University
+
+
+# ⚽ Miscs
+- I have been playing soccer for years and I am a huge fan of <font color="cc000b">MUFC</font>. 
+- I enjoy video games, especially rogue-likes and Metroidvania games.
