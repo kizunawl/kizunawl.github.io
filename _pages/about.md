@@ -20,7 +20,7 @@ redirect_from:
 I am a first-year M.S. student at School of Artificial Intelligence, Shanghai Jiao Tong University. 
 Previously, I got my B.Eng. degree in artificial intelligence at SJTU. I was enrolled in the first session of [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb). 
 
-I am currently a member of [MVIG](https://www.mvig.org/). I am adviced by [Prof. Cewu Lu](https://www.mvig.org/) and [Prof. Jianhua Sun](https://gothicai.github.io/HomePage/). I have great research interest in 3D vision, robotics and specifically embodied AI. 
+I am currently a member of [MVIG](https://www.mvig.org/). I am adviced by [Prof. Cewu Lu](https://www.mvig.org/) and [Prof. Jianhua Sun](https://gothicai.github.io/HomePage/). I have great research interest in 3D vision and robotics. 
 
 <!-- 
 # 🔥 News
@@ -32,10 +32,10 @@ I am currently a member of [MVIG](https://www.mvig.org/). I am adviced by [Prof.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/arti-pg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/pub/artipg.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Arti-PG: A Toolbox for Procedurally Synthesizing Large-Scale and Diverse Articulated Objects with Rich Annotations](https://arxiv.org/abs/2412.14974)
+[\[ICCV 2025\] Arti-PG: A Toolbox for Procedurally Synthesizing Large-Scale and Diverse Articulated Objects with Rich Annotations](https://arxiv.org/abs/2412.14974)
 
 Jianhua Sun<sup>\*</sup>, Yuxuan Li<sup>\*</sup>, **Jiude Wei**<sup>\*</sup>, Longfei Xu, Nange Wang, Yining Zhang, Cewu Lu<sup>§</sup>
 
@@ -47,10 +47,10 @@ We propose the Articulated Object Procedural Generation (Arti‑PG) toolbox, whi
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/aot.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/pub/aot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Discovering Conceptual Knowledge with Analytic Ontology Templates for Articulated Objects 🎉 _**<font color="#f35533">Oral</font>**_](https://arxiv.org/pdf/2409.11702)
+[\[AAAI 2025\] Discovering Conceptual Knowledge with Analytic Ontology Templates for Articulated Objects 🎉 _**<font color="#f35533">Oral</font>**_](https://arxiv.org/pdf/2409.11702)
 
 Jianhua Sun<sup>\*</sup>, Yuxuan Li<sup>\*</sup>, Longfei Xu<sup>†</sup>, **Jiude Wei**<sup>†</sup>, Liang Chai, Cewu Lu<sup>§</sup>
 
@@ -62,10 +62,10 @@ We present AOT and the AOT-driven baseline AOTNet to empower machine intelligenc
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024 Datasets and Benchmarks Track</div><img src='images/confac.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024 Datasets and Benchmarks Track</div><img src='images/pub/confac.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ConceptFactory: Facilitate 3D Object Knowledge Annotation with Object Conceptualization](https://arxiv.org/pdf/2411.00448)
+[\[NeurlPS 2024\] ConceptFactory: Facilitate 3D Object Knowledge Annotation with Object Conceptualization](https://arxiv.org/pdf/2411.00448)
 
 Jianhua Sun<sup>\*</sup>, Yuxuan Li<sup>\*</sup>, Longfei Xu<sup>†</sup>, Nange Wang<sup>†</sup>, **Jiude Wei**<sup>†</sup>, Yining Zhang, Cewu Lu<sup>§</sup>
 
@@ -78,13 +78,9 @@ We present ConceptFactory, a novel scope to facilitate more efficient annotation
 
 
 # 🎖 Honors and Awards
-- National Awards
-  - *2019.12:* **First Price**, NOIP (National Olympiad in Informatics in Province)
-  - *2017.12:* **First Price**, NOIP (National Olympiad in Informatics in Province)
-- Scholarships
-  - *2021.12:* **Third Price** of Academic Exellent Scholarship of Shanghai Jiao Tong University
-- Certificates
-  - *2022.9:* **596**, CET6 (College English Test Band 6 Certificate)
+  - *2021.12:* Academic Exellent Scholarship of Shanghai Jiao Tong University
+  - *2019.12 & 2017.12:* **First Price**, NOIP (National Olympiad in Informatics in Province)
+  <!-- - Certificates- *2022.9:* **596**, CET6 (College English Test Band 6 Certificate) --> 
 
 
 # 📖 Education
