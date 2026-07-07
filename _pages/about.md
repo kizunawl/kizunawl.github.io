@@ -30,7 +30,7 @@ I am a first-year M.S. student at [MVIG](https://www.mvig.org/), Shanghai Jiao T
 <div class='paper-box highlight-green'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/pub/StructPolicy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[\[ECCV 2026\] StructPolicy: Structure-Guided Imitation Learning Robust to Visual Domain Shifts](https://structpolicy.github.io/StructPolicy-Homepage/#)
+[StructPolicy: Structure-Guided Imitation Learning Robust to Visual Domain Shifts](https://structpolicy.github.io/StructPolicy-Homepage/#)
 
 Zehao Du<sup>\*</sup>, **Jiude Wei**<sup>\*</sup>, Cewu Lu, Jianhua Sun<sup>§</sup>
 
@@ -48,7 +48,7 @@ We propose StructPolicy, a lightweight structure-aware module that extracts task
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026</div><img src='images/pub/blueprint.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[\[IJCAI 2026\] Empowering Precise Embodied Agents with Executable Analytic Concepts as Semantic-Physical Blueprints](https://arxiv.org/abs/2510.07975)
+[Empowering Precise Embodied Agents with Executable Analytic Concepts as Semantic-Physical Blueprints](https://arxiv.org/abs/2510.07975)
 
 Mingyang Sun, **Jiude Wei**, Qichen He, Donglin Wang, Cewu Lu, Jianhua Sun<sup>§</sup>
 
@@ -68,7 +68,7 @@ We propose GRACE, a training-free framework that bridges VLM reasoning and preci
 <div class='paper-box highlight-green'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/pub/aotllm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[\[CVPR 2026\] Phsyically Ground Commonsense Knowledge for Articulated Object Manipulation with Analytic Concepts](https://openaccess.thecvf.com/content/CVPR2026/papers/Wei_Physically_Ground_Commonsense_Knowledge_for_Articulated_Object_Manipulation_with_Analytic_CVPR_2026_paper.pdf)
+[Phsyically Ground Commonsense Knowledge for Articulated Object Manipulation with Analytic Concepts](https://openaccess.thecvf.com/content/CVPR2026/papers/Wei_Physically_Ground_Commonsense_Knowledge_for_Articulated_Object_Manipulation_with_Analytic_CVPR_2026_paper.pdf)
 
 **Jiude Wei**, Yuxuan Li, Cewu Lu, Jianhua Sun<sup>§</sup>
 
@@ -88,7 +88,7 @@ We introduce Analytic Concepts as the bridge between the semantic-level knowledg
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/pub/artipg.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[\[ICCV 2025\] Arti-PG: A Toolbox for Procedurally Synthesizing Large-Scale and Diverse Articulated Objects with Rich Annotations](https://arxiv.org/abs/2412.14974)
+[Arti-PG: A Toolbox for Procedurally Synthesizing Large-Scale and Diverse Articulated Objects with Rich Annotations](https://arxiv.org/abs/2412.14974)
 
 Jianhua Sun<sup>\*</sup>, Yuxuan Li<sup>\*</sup>, **Jiude Wei**<sup>\*</sup>, Longfei Xu, Nange Wang, Yining Zhang, Cewu Lu<sup>§</sup>
 
@@ -108,11 +108,11 @@ We propose the Articulated Object Procedural Generation (Arti‑PG) toolbox, whi
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/pub/aot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[\[AAAI 2025\] Discovering Conceptual Knowledge with Analytic Ontology Templates for Articulated Objects 🎉 _**<font color="#f35533">Oral</font>**_](https://arxiv.org/pdf/2409.11702)
+[Discovering Conceptual Knowledge with Analytic Ontology Templates for Articulated Objects](https://arxiv.org/pdf/2409.11702)
 
 Jianhua Sun<sup>\*</sup>, Yuxuan Li<sup>\*</sup>, Longfei Xu<sup>†</sup>, **Jiude Wei**<sup>†</sup>, Liang Chai, Cewu Lu<sup>§</sup>
 
-[\[**Paper**\]](https://arxiv.org/pdf/2409.11702)
+_**<font color="#f35533">AAAI25 Oral</font>**_ [\[**Paper**\]](https://arxiv.org/pdf/2409.11702)
 
 <details class="paper-tldr" markdown="1">
 <summary>TL;DR</summary>
@@ -125,10 +125,10 @@ We present AOT and the AOT-driven baseline AOTNet to empower machine intelligenc
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024 Datasets and Benchmarks Track</div><img src='images/pub/confac.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurlPS 2024 D&B Track</div><img src='images/pub/confac.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[\[NeurlPS 2024\] ConceptFactory: Facilitate 3D Object Knowledge Annotation with Object Conceptualization](https://arxiv.org/pdf/2411.00448)
+[ConceptFactory: Facilitate 3D Object Knowledge Annotation with Object Conceptualization](https://arxiv.org/pdf/2411.00448)
 
 Jianhua Sun<sup>\*</sup>, Yuxuan Li<sup>\*</sup>, Longfei Xu<sup>†</sup>, Nange Wang<sup>†</sup>, **Jiude Wei**<sup>†</sup>, Yining Zhang, Cewu Lu<sup>§</sup>
 
