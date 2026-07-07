@@ -26,16 +26,60 @@ I am a first-year M.S. student at [MVIG](https://www.mvig.org/), Shanghai Jiao T
 
 # Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/pub/aotllm.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box highlight-green'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/pub/StructPolicy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[\[CVPR 2026\] Phsyically Ground Commonsense Knowledge for Articulated Object Manipulation with Analytic Concepts](https://arxiv.org/abs/2503.23348)
+[\[ECCV 2026\] StructPolicy: Structure-Guided Imitation Learning Robust to Visual Domain Shifts](https://structpolicy.github.io/StructPolicy-Homepage/#)
+
+Zehao Du<sup>\*</sup>, **Jiude Wei**<sup>\*</sup>, Cewu Lu, Jianhua Sun<sup>§</sup>
+
+[\[**Project Page**\]](https://structpolicy.github.io/StructPolicy-Homepage/#)
+
+<details class="paper-tldr" markdown="1">
+<summary>TL;DR</summary>
+
+We propose StructPolicy, a lightweight structure-aware module that extracts task-relevant structural cues from visual observations to guide imitation learning, improving manipulation robustness against visual distribution shifts. 
+
+</details>
+
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2026</div><img src='images/pub/blueprint.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[\[IJCAI 2026\] Empowering Precise Embodied Agents with Executable Analytic Concepts as Semantic-Physical Blueprints](https://arxiv.org/abs/2510.07975)
+
+Mingyang Sun, **Jiude Wei**, Qichen He, Donglin Wang, Cewu Lu, Jianhua Sun<sup>§</sup>
+
+[\[**Paper**\]](https://arxiv.org/pdf/2510.07975)
+
+<details class="paper-tldr" markdown="1">
+<summary>TL;DR</summary>
+
+We propose GRACE, a training-free framework that bridges VLM reasoning and precise robot execution through executable analytic concepts, enabling semantic-to-physical grounding and zero-shot generalization for articulated-object manipulation tasks.
+
+</details>
+
+</div>
+</div>
+
+
+<div class='paper-box highlight-green'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/pub/aotllm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[\[CVPR 2026\] Phsyically Ground Commonsense Knowledge for Articulated Object Manipulation with Analytic Concepts](https://openaccess.thecvf.com/content/CVPR2026/papers/Wei_Physically_Ground_Commonsense_Knowledge_for_Articulated_Object_Manipulation_with_Analytic_CVPR_2026_paper.pdf)
 
 **Jiude Wei**, Yuxuan Li, Cewu Lu, Jianhua Sun<sup>§</sup>
 
-[\[**Paper**\]](https://arxiv.org/pdf/2503.23348)
+[\[**Paper**\]](https://openaccess.thecvf.com/content/CVPR2026/papers/Wei_Physically_Ground_Commonsense_Knowledge_for_Articulated_Object_Manipulation_with_Analytic_CVPR_2026_paper.pdf)
+
+<details class="paper-tldr" markdown="1">
+<summary>TL;DR</summary>
 
 We introduce Analytic Concepts as the bridge between the semantic-level knowledge inferred by MLLMs and the physics level where robots operate, to ground the object knowledge to physics level and guide object manipulation. 
+
+</details>
 
 </div>
 </div>
@@ -48,9 +92,14 @@ We introduce Analytic Concepts as the bridge between the semantic-level knowledg
 
 Jianhua Sun<sup>\*</sup>, Yuxuan Li<sup>\*</sup>, **Jiude Wei**<sup>\*</sup>, Longfei Xu, Nange Wang, Yining Zhang, Cewu Lu<sup>§</sup>
 
-[\[**Paper**\]](https://arxiv.org/abs/2412.14974)
+[\[**Paper**\]](https://arxiv.org/pdf/2412.14974) [\[**Code**\]](https://github.com/Analytic-Concept-Group/ArtiPG)
+
+<details class="paper-tldr" markdown="1">
+<summary>TL;DR</summary>
 
 We propose the Articulated Object Procedural Generation (Arti‑PG) toolbox, which synthesizes diverse and unlimited articulated objects with rich annotations through program‑oriented structure manipulation and analytic label alignment, addressing the scarcity of high‑quality articulated object data and annotations.
+
+</details>
 
 </div>
 </div>
@@ -65,7 +114,12 @@ Jianhua Sun<sup>\*</sup>, Yuxuan Li<sup>\*</sup>, Longfei Xu<sup>†</sup>, **Ji
 
 [\[**Paper**\]](https://arxiv.org/pdf/2409.11702)
 
+<details class="paper-tldr" markdown="1">
+<summary>TL;DR</summary>
+
 We present AOT and the AOT-driven baseline AOTNet to empower machine intelligence with the kind of human capability to understand and then interact with articulated objects, espeically the novel ones, at the conceptual level for the first time. 
+
+</details>
 
 </div>
 </div>
@@ -80,7 +134,12 @@ Jianhua Sun<sup>\*</sup>, Yuxuan Li<sup>\*</sup>, Longfei Xu<sup>†</sup>, Nang
 
 [\[**Project Website**\]](https://apeirony.github.io/ConceptFactory) [\[**Paper**\]](https://arxiv.org/pdf/2411.00448)
 
+<details class="paper-tldr" markdown="1">
+<summary>TL;DR</summary>
+
 We present ConceptFactory, a novel scope to facilitate more efficient annotation of 3D object knowledge through object conceptualization, containing a unified toolbox for object conceptualization and a large collection of conceptualized objects. 
+
+</details>
 
 </div>
 </div>

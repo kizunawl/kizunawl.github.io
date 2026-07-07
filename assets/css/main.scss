@@ -87,6 +87,44 @@
 
 }
 
+.paper-box.highlight-yellow,
+.paper-box.highlight-green {
+    border-bottom: 0;
+    border-radius: 8px;
+    margin: 1.2em 0;
+    padding: 1.5em;
+}
+
+.paper-box.highlight-yellow {
+    background-color: #fff8d9;
+}
+
+.paper-box.highlight-green {
+    background-color: #eef8e8;
+}
+
+.paper-tldr {
+    margin-top: .75em;
+}
+
+.paper-tldr summary {
+    cursor: pointer;
+    color: #00369f;
+    font-weight: 600;
+}
+
+.paper-tldr summary:hover {
+    text-decoration: underline;
+}
+
+.paper-tldr[open] summary {
+    margin-bottom: .4em;
+}
+
+.paper-tldr p {
+    margin-top: 0;
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
