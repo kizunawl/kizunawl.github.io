@@ -1,7 +1,7 @@
 ---
 ---
 
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
 
 /*
  *    Minimal Mistakes Jekyll Theme
@@ -43,9 +43,9 @@
 @import "print";
 
 .page__content {
-    font-family: "Lato", Verdana, Helvetica, sans-serif;
-    font-size: .86em;
-    line-height: 1.45;
+    font-family: "Source Sans 3", "Lato", Verdana, Helvetica, sans-serif;
+    font-size: 1.05rem;
+    line-height: 1.52;
 }
 
 .paper-box {
@@ -56,9 +56,9 @@
     flex-direction: row;
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
-    font-family: "Lato", Verdana, Helvetica, sans-serif;
+    font-family: "Source Sans 3", "Lato", Verdana, Helvetica, sans-serif;
     font-size: 1em;
-    line-height: 1.45;
+    line-height: 1.42;
     padding: 1.5em;
     
     *,
@@ -87,13 +87,14 @@
         a,
         strong,
         em,
+        span,
         details,
         summary {
             font-size: 1em;
         }
 
         p {
-            margin: 0 0 .35em;
+            margin: 0 0 .28em;
         }
 
         p:last-child {
@@ -121,6 +122,33 @@
     }
 
 
+}
+
+.paper-title {
+    color: #222;
+    display: block;
+    font-size: 1.16em !important;
+    font-weight: 700;
+    line-height: 1.25;
+    text-decoration: none;
+}
+
+.paper-title:focus,
+.paper-title:hover {
+    color: #00369f;
+    text-decoration: none;
+}
+
+.paper-venue {
+    color: #555;
+    display: block;
+    font-style: italic;
+    font-weight: 600;
+}
+
+.paper-highlight {
+    color: #f35533;
+    font-weight: 700;
 }
 
 .paper-box.highlight-yellow,
@@ -170,13 +198,3 @@ h1:before, .anchor:before {
     margin-top: -$scroll_offset;
 }
 
-.badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
-    color: white;
-    background-color: #00369f;
-    font-size: .8em;
-}
