@@ -19,12 +19,56 @@ author_profile: true
 
 # Biography
 
-I am a first-year M.S. student at [MVIG](https://www.mvig.org/), Shanghai Jiao Tong University. I am supervised by [Prof. Cewu Lu](https://www.mvig.org/) and [Prof. Jianhua Sun](https://gothicai.github.io/HomePage/). I have great research interest in 3D vision and robotics. Previously, I got my B.Eng. degree in SJTU. 
+I am pursuing my master's degree at SAI, Shanghai Jiao Tong University. I am supervised by [Prof. Cewu Lu](https://www.mvig.org/) and [Prof. Jianhua Sun](https://gothicai.github.io/HomePage/). I have great research interest in embodied manipulation inspired by physial object/embodiment understanding. Previously, I got my B.Eng. degree in SJTU. 
 <!-- I was enrolled in the first session of [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb).  -->
 
 *Email:* wjd_kznwl@sjtu.edu.cn
 
 # Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/pub/SchemaPose.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class="paper-title" href="">	
+SchemaPose: RGB-Based Category-Level Pose Estimation with Parametric Category Schema</a>
+
+Shuang Wu, **Jiude Wei**, Cewu Lu, Jianhua Sun<sup>§</sup>
+
+<span class="paper-venue">NeurIPS 2026</span>
+
+
+<details class="paper-tldr" markdown="1">
+<summary>TL;DR</summary>
+
+We propose SchemaPose, a digital-gene-guided framework for category-level 9D pose estimation that captures shared structure and instance variation, refines candidate poses with structural priors, and uses a consistent data pipeline to generate training supervision.
+
+</details>
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/pub/MapPolicy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<a class="paper-title" href="">	
+MapPolicy: Structure-Aware Imitation Learning for Robot Manipulation via Physically Constrained Scene Map</a>
+
+Zehao Du, Zheng Huang, Rui Li, Hongyu Liu, **Jiude Wei**, Jiachun Bao, Cewu Lu, Jianhua Sun<sup>§</sup>
+
+<span class="paper-venue">NeurIPS 2026</span>
+
+[\[**Code**\]](https://github.com/Zehao-Du/MapPolicy)
+
+<details class="paper-tldr" markdown="1">
+<summary>TL;DR</summary>
+
+We propose MapPolicy, a structure-aware IL framework that represents object geometry, part structure, and scene layout as digital-gene graphs, enabling robust manipulation under partial observation by fusing structural reasoning with visual observations and robot states.
+
+</details>
+
+</div>
+</div>
 
 
 <div class='paper-box highlight-green'><div class='paper-box-image'><div><img src='images/pub/StructPolicy.png' alt="sym" width="100%"></div></div>
@@ -47,6 +91,8 @@ We propose StructPolicy, a lightweight structure-aware module that extracts task
 
 </div>
 </div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/pub/blueprint.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
