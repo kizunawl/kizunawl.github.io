@@ -32,7 +32,7 @@ I am pursuing my master's degree at SAI, Shanghai Jiao Tong University. I am sup
 <a class="paper-title" href="">	
 SchemaPose: RGB-Based Category-Level Pose Estimation with Parametric Category Schema</a>
 
-Shuang Wu, **Jiude Wei**, Cewu Lu, Jianhua Sun<sup>§</sup>
+Shuang Wu<sup>\*</sup>, **Jiude Wei<sup>\*</sup>**, Cewu Lu, Jianhua Sun<sup>§</sup>
 
 <span class="paper-venue">NeurIPS 2026</span>
 
@@ -96,13 +96,13 @@ We propose StructPolicy, a lightweight structure-aware module that extracts task
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/pub/blueprint.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<a class="paper-title" href="https://arxiv.org/abs/2510.07975">Empowering Precise Embodied Agents with Executable Analytic Concepts as Semantic-Physical Blueprints</a>
+<a class="paper-title" href="https://www.ijcai.org/proceedings/2026/0044.pdf">Empowering Precise Embodied Agents with Executable Analytic Concepts as Semantic-Physical Blueprints</a>
 
 Mingyang Sun, **Jiude Wei**, Qichen He, Donglin Wang, Cewu Lu, Jianhua Sun<sup>§</sup>
 
 <span class="paper-venue">IJCAI 2026</span>
 
-[\[**Paper**\]](https://arxiv.org/pdf/2510.07975)
+[\[**Paper**\]](https://www.ijcai.org/proceedings/2026/0044.pdf)
 
 <details class="paper-tldr" markdown="1">
 <summary>TL;DR</summary>
