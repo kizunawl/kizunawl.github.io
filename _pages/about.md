@@ -19,7 +19,7 @@ author_profile: true
 
 # Biography
 
-I am pursuing my master's degree at SAI, Shanghai Jiao Tong University. I am supervised by [Prof. Cewu Lu](https://www.mvig.org/) and [Prof. Jianhua Sun](https://gothicai.github.io/HomePage/). I have great research interest in embodied manipulation inspired by physial object/embodiment understanding. Previously, I got my B.Eng. degree in SJTU. 
+I am pursuing my master's degree at SAI, Shanghai Jiao Tong University. I am supervised by [Prof. Cewu Lu](https://www.mvig.org/) and [Prof. Jianhua Sun](https://gothicai.github.io/HomePage/). I have great research interest in **robot manipulation** inspired by **physial object and embodiment understanding**. Previously, I got my B.Eng. degree in SJTU. 
 <!-- I was enrolled in the first session of [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb).  -->
 
 *Email:* wjd_kznwl@sjtu.edu.cn
@@ -32,10 +32,11 @@ I am pursuing my master's degree at SAI, Shanghai Jiao Tong University. I am sup
 <a class="paper-title" href="">	
 SchemaPose: RGB-Based Category-Level Pose Estimation with Parametric Category Schema</a>
 
-Shuang Wu<sup>\*</sup>, **Jiude Wei<sup>\*</sup>**, Cewu Lu, Jianhua Sun<sup>§</sup>
+Shuang Wu<sup>\*</sup>, **Jiude Wei<sup>\*</sup>**, Cewu Lu, Jianhua Sun<sup>†</sup>
 
-<span class="paper-venue">NeurIPS 2026</span>
+<span class="paper-venue">**NeurIPS 2026**</span>
 
+<div class="paper-actions" markdown="1">
 
 <details class="paper-tldr" markdown="1">
 <summary>TL;DR</summary>
@@ -43,6 +44,11 @@ Shuang Wu<sup>\*</sup>, **Jiude Wei<sup>\*</sup>**, Cewu Lu, Jianhua Sun<sup>§<
 We propose SchemaPose, a digital-gene-guided framework for category-level 9D pose estimation that captures shared structure and instance variation, refines candidate poses with structural priors, and uses a consistent data pipeline to generate training supervision.
 
 </details>
+
+[\[**Project Page**\]](https://souglad21.github.io/SchemaPose/) [\[**Paper**\]](https://arxiv.org/abs/2610.18374)
+{: .paper-links }
+
+</div>
 
 </div>
 </div>
@@ -54,11 +60,11 @@ We propose SchemaPose, a digital-gene-guided framework for category-level 9D pos
 <a class="paper-title" href="">	
 MapPolicy: Structure-Aware Imitation Learning for Robot Manipulation via Physically Constrained Scene Map</a>
 
-Zehao Du, Zheng Huang, Rui Li, Hongyu Liu, **Jiude Wei**, Jiachun Bao, Cewu Lu, Jianhua Sun<sup>§</sup>
+Zehao Du, Zheng Huang, Rui Li, Hongyu Liu, **Jiude Wei**, Jiachun Bao, Cewu Lu, Jianhua Sun<sup>†</sup>
 
-<span class="paper-venue">NeurIPS 2026</span>
+<span class="paper-venue">**NeurIPS 2026**</span>
 
-[\[**Code**\]](https://github.com/Zehao-Du/MapPolicy)
+<div class="paper-actions" markdown="1">
 
 <details class="paper-tldr" markdown="1">
 <summary>TL;DR</summary>
@@ -67,20 +73,24 @@ We propose MapPolicy, a structure-aware IL framework that represents object geom
 
 </details>
 
+
+
+</div>
+
 </div>
 </div>
 
 
-<div class='paper-box highlight-green'><div class='paper-box-image'><div><img src='images/pub/StructPolicy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box highlight-yellow'><div class='paper-box-image'><div><img src='images/pub/StructPolicy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a class="paper-title" href="https://structpolicy.github.io/StructPolicy-Homepage/#">StructPolicy: Structure-Guided Imitation Learning Robust to Visual Domain Shifts</a>
 
-Zehao Du<sup>\*</sup>, **Jiude Wei**<sup>\*</sup>, Cewu Lu, Jianhua Sun<sup>§</sup>
+Zehao Du<sup>\*</sup>, **Jiude Wei**<sup>\*</sup>, Cewu Lu, Jianhua Sun<sup>†</sup>
 
-<span class="paper-venue">ECCV 2026</span>
+<span class="paper-venue">**ECCV 2026**</span>
 
-[\[**Project Page**\]](https://structpolicy.github.io/StructPolicy-Homepage/#)
+<div class="paper-actions" markdown="1">
 
 <details class="paper-tldr" markdown="1">
 <summary>TL;DR</summary>
@@ -88,6 +98,11 @@ Zehao Du<sup>\*</sup>, **Jiude Wei**<sup>\*</sup>, Cewu Lu, Jianhua Sun<sup>§</
 We propose StructPolicy, a lightweight structure-aware module that extracts task-relevant structural cues from visual observations to guide imitation learning, improving manipulation robustness against visual distribution shifts. 
 
 </details>
+
+[\[**Project Page**\]](https://structpolicy.github.io/StructPolicy-Homepage/#)
+{: .paper-links }
+
+</div>
 
 </div>
 </div>
@@ -98,11 +113,11 @@ We propose StructPolicy, a lightweight structure-aware module that extracts task
 
 <a class="paper-title" href="https://www.ijcai.org/proceedings/2026/0044.pdf">Empowering Precise Embodied Agents with Executable Analytic Concepts as Semantic-Physical Blueprints</a>
 
-Mingyang Sun, **Jiude Wei**, Qichen He, Donglin Wang, Cewu Lu, Jianhua Sun<sup>§</sup>
+Mingyang Sun, **Jiude Wei**, Qichen He, Donglin Wang, Cewu Lu, Jianhua Sun<sup>†</sup>
 
-<span class="paper-venue">IJCAI 2026</span>
+<span class="paper-venue">**IJCAI 2026**</span>
 
-[\[**Paper**\]](https://www.ijcai.org/proceedings/2026/0044.pdf)
+<div class="paper-actions" markdown="1">
 
 <details class="paper-tldr" markdown="1">
 <summary>TL;DR</summary>
@@ -111,20 +126,25 @@ We propose GRACE, a training-free framework that bridges VLM reasoning and preci
 
 </details>
 
+[\[**Paper**\]](https://www.ijcai.org/proceedings/2026/0044.pdf)
+{: .paper-links }
+
+</div>
+
 </div>
 </div>
 
 
-<div class='paper-box highlight-green'><div class='paper-box-image'><div><img src='images/pub/aotllm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box highlight-yellow'><div class='paper-box-image'><div><img src='images/pub/aotllm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <a class="paper-title" href="https://openaccess.thecvf.com/content/CVPR2026/papers/Wei_Physically_Ground_Commonsense_Knowledge_for_Articulated_Object_Manipulation_with_Analytic_CVPR_2026_paper.pdf">Phsyically Ground Commonsense Knowledge for Articulated Object Manipulation with Analytic Concepts</a>
 
-**Jiude Wei**, Yuxuan Li, Cewu Lu, Jianhua Sun<sup>§</sup>
+**Jiude Wei**, Yuxuan Li, Cewu Lu, Jianhua Sun<sup>†</sup>
 
-<span class="paper-venue">CVPR 2026</span>
+<span class="paper-venue">**CVPR 2026**</span>
 
-[\[**Paper**\]](https://openaccess.thecvf.com/content/CVPR2026/papers/Wei_Physically_Ground_Commonsense_Knowledge_for_Articulated_Object_Manipulation_with_Analytic_CVPR_2026_paper.pdf)
+<div class="paper-actions" markdown="1">
 
 <details class="paper-tldr" markdown="1">
 <summary>TL;DR</summary>
@@ -132,6 +152,11 @@ We propose GRACE, a training-free framework that bridges VLM reasoning and preci
 We introduce Analytic Concepts as the bridge between the semantic-level knowledge inferred by MLLMs and the physics level where robots operate, to ground the object knowledge to physics level and guide object manipulation. 
 
 </details>
+
+[\[**Paper**\]](https://openaccess.thecvf.com/content/CVPR2026/papers/Wei_Physically_Ground_Commonsense_Knowledge_for_Articulated_Object_Manipulation_with_Analytic_CVPR_2026_paper.pdf)
+{: .paper-links }
+
+</div>
 
 </div>
 </div>
@@ -142,11 +167,11 @@ We introduce Analytic Concepts as the bridge between the semantic-level knowledg
 
 <a class="paper-title" href="https://arxiv.org/abs/2412.14974">Arti-PG: A Toolbox for Procedurally Synthesizing Large-Scale and Diverse Articulated Objects with Rich Annotations</a>
 
-Jianhua Sun<sup>\*</sup>, Yuxuan Li<sup>\*</sup>, **Jiude Wei**<sup>\*</sup>, Longfei Xu, Nange Wang, Yining Zhang, Cewu Lu<sup>§</sup>
+Jianhua Sun<sup>\*</sup>, Yuxuan Li<sup>\*</sup>, **Jiude Wei**<sup>\*</sup>, Longfei Xu, Nange Wang, Yining Zhang, Cewu Lu<sup>†</sup>
 
-<span class="paper-venue">ICCV 2025</span>
+<span class="paper-venue">**ICCV 2025**</span>
 
-[\[**Paper**\]](https://arxiv.org/pdf/2412.14974) [\[**Code**\]](https://github.com/Analytic-Concept-Group/ArtiPG)
+<div class="paper-actions" markdown="1">
 
 <details class="paper-tldr" markdown="1">
 <summary>TL;DR</summary>
@@ -154,6 +179,11 @@ Jianhua Sun<sup>\*</sup>, Yuxuan Li<sup>\*</sup>, **Jiude Wei**<sup>\*</sup>, Lo
 We propose the Articulated Object Procedural Generation (Arti‑PG) toolbox, which synthesizes diverse and unlimited articulated objects with rich annotations through program‑oriented structure manipulation and analytic label alignment, addressing the scarcity of high‑quality articulated object data and annotations.
 
 </details>
+
+[\[**Paper**\]](https://arxiv.org/pdf/2412.14974) [\[**Code**\]](https://github.com/Analytic-Concept-Group/ArtiPG)
+{: .paper-links }
+
+</div>
 
 </div>
 </div>
@@ -164,11 +194,11 @@ We propose the Articulated Object Procedural Generation (Arti‑PG) toolbox, whi
 
 <a class="paper-title" href="https://arxiv.org/pdf/2409.11702">Discovering Conceptual Knowledge with Analytic Ontology Templates for Articulated Objects</a>
 
-Jianhua Sun<sup>\*</sup>, Yuxuan Li<sup>\*</sup>, Longfei Xu<sup>†</sup>, **Jiude Wei**<sup>†</sup>, Liang Chai, Cewu Lu<sup>§</sup>
+Jianhua Sun<sup>\*</sup>, Yuxuan Li<sup>\*</sup>, Longfei Xu<sup>†</sup>, **Jiude Wei**<sup>†</sup>, Liang Chai, Cewu Lu<sup>†</sup>
 
-<span class="paper-venue">AAAI 2025, <span class="paper-highlight">Oral</span></span>
+<span class="paper-venue">**AAAI 2025**, <span class="paper-highlight">Oral</span></span>
 
-[\[**Paper**\]](https://arxiv.org/pdf/2409.11702)
+<div class="paper-actions" markdown="1">
 
 <details class="paper-tldr" markdown="1">
 <summary>TL;DR</summary>
@@ -176,6 +206,11 @@ Jianhua Sun<sup>\*</sup>, Yuxuan Li<sup>\*</sup>, Longfei Xu<sup>†</sup>, **Ji
 We present AOT and the AOT-driven baseline AOTNet to empower machine intelligence with the kind of human capability to understand and then interact with articulated objects, espeically the novel ones, at the conceptual level for the first time. 
 
 </details>
+
+[\[**Paper**\]](https://arxiv.org/pdf/2409.11702)
+{: .paper-links }
+
+</div>
 
 </div>
 </div>
@@ -186,11 +221,11 @@ We present AOT and the AOT-driven baseline AOTNet to empower machine intelligenc
 
 <a class="paper-title" href="https://arxiv.org/pdf/2411.00448">ConceptFactory: Facilitate 3D Object Knowledge Annotation with Object Conceptualization</a>
 
-Jianhua Sun<sup>\*</sup>, Yuxuan Li<sup>\*</sup>, Longfei Xu<sup>†</sup>, Nange Wang<sup>†</sup>, **Jiude Wei**<sup>†</sup>, Yining Zhang, Cewu Lu<sup>§</sup>
+Jianhua Sun<sup>\*</sup>, Yuxuan Li<sup>\*</sup>, Longfei Xu<sup>†</sup>, Nange Wang<sup>†</sup>, **Jiude Wei**<sup>†</sup>, Yining Zhang, Cewu Lu<sup>†</sup>
 
-<span class="paper-venue">NeurIPS 2024 Datasets and Benchmarks Track</span>
+<span class="paper-venue">**NeurIPS 2024** Datasets and Benchmarks Track</span>
 
-[\[**Project Website**\]](https://apeirony.github.io/ConceptFactory) [\[**Paper**\]](https://arxiv.org/pdf/2411.00448)
+<div class="paper-actions" markdown="1">
 
 <details class="paper-tldr" markdown="1">
 <summary>TL;DR</summary>
@@ -198,6 +233,11 @@ Jianhua Sun<sup>\*</sup>, Yuxuan Li<sup>\*</sup>, Longfei Xu<sup>†</sup>, Nang
 We present ConceptFactory, a novel scope to facilitate more efficient annotation of 3D object knowledge through object conceptualization, containing a unified toolbox for object conceptualization and a large collection of conceptualized objects. 
 
 </details>
+
+[\[**Project Website**\]](https://apeirony.github.io/ConceptFactory) [\[**Paper**\]](https://arxiv.org/pdf/2411.00448)
+{: .paper-links }
+
+</div>
 
 </div>
 </div>

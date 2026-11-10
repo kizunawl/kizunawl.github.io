@@ -166,14 +166,39 @@
     background-color: #eef8e8;
 }
 
-.paper-tldr {
+.paper-actions {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    column-gap: .75em;
     margin-top: .35em;
 }
 
+.paper-box-text .paper-links {
+    margin: 0;
+}
+
+.paper-tldr {
+    display: contents;
+}
+
+.paper-tldr:not([open]) > :not(summary) {
+    display: none;
+}
+
 .paper-tldr summary {
+    display: inline-block;
     cursor: pointer;
     color: #00369f;
     font-weight: 600;
+}
+
+.paper-tldr summary::before {
+    content: "▸ ";
+}
+
+.paper-tldr[open] summary::before {
+    content: "▾ ";
 }
 
 .paper-tldr summary:hover {
@@ -185,6 +210,8 @@
 }
 
 .paper-tldr p {
+    order: 1;
+    flex-basis: 100%;
     margin-top: 0;
 }
 
